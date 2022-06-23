@@ -21,8 +21,8 @@
 | 🟩 lexical scope     | 🟩 try..catch         | 🟩 chaining           | 🟩 typed arrays     | 🟩 dead code         |
 | 🟩 code block        | 🟩 equality operators | 🟩 higher order       | 🟩 Map              | 🟩 unreachable code  |
 | 🟩 Object            | 🟩 logical operators  | 🟩 callback           | 🟩 Set              | 🟩 duplicate code    |
-| 🟩 this              | 🟦 bitwise operators  | 🟩 listener           | ⬜️ weak collections | 🟩 exception         |
-| 🟩 arrow function    | 🟩 break, continue    | 🟩 pipe               | ⬜️ Proxy            | 🟩 return early      |
+| 🟩 this              | 🟩 bitwise operators  | 🟩 listener           | 🟩 weak collections | 🟩 exception         |
+| 🟩 arrow function    | 🟩 break, continue    | 🟩 pipe               | 🟩 Proxy            | 🟩 return early      |
 | 🟩 generator         | 🟩 switch             | 🟩 memoize            | 🟩 Symbol           | 🟩 linter            |
 | 🟩 async function    | 🟩 new Error          | 🟩 factory            | 🟩 string parsing   | 🟩 prettier          |
 | 🟩 call, bind, apply |                       | 🟩 pool               | 🟩 timers           | 🟩 unittest          |
@@ -63,7 +63,7 @@
 |------------------------|--------------------------------|---------------------|--------------------------|
 | 🟦 Callback-last       | 🟩 Timers                      | 🟩 Event Loop       | ⬜ async.js library      |
 | 🟦 Error-first         | 🟩 setImmediate                | 🟩 Async error      | ⬜ Async composition     |
-| 🟩 Promise             | 🟦 nextTick                    | 🟩 try..catch       | ⬜ Rx.js                 |
+| 🟩 Promise             | 🟩 nextTick                    | 🟩 try..catch       | ⬜ Rx.js                 |
 | 🟩 Async function      | ⬜ AbortController             | 🟦 Non-blocking     | 🟦 Sequential async      |
 | 🟩 await               | 🟦 Promise unhandled rejection | 🟩 Async I/O        | 🟩 Parallel async        |
 | 🟩 Generator           | 🟦 Promise double resolve      | 🟦 Pattern Reactor  | 🟩 Promise.all           |
