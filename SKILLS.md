@@ -85,7 +85,7 @@
 
 | Internals            | Theory                       | Network           | Technique        | Problems             |
 |----------------------|------------------------------|-------------------|------------------|----------------------|
-| 🟦 Nonblocking I/O   | 🟦 I/O bound tasks           | 🟩 HTTP(S)        | 🟦 Logging       | 🟩 Memory leaks      |
+| 🟦 Nonblocking I/O   | 🟦 I/O bound tasks           | 🟩 HTTP(S)        | 🟩 Logging       | 🟩 Memory leaks      |
 | 🟩 Event Loop        | 🟦 CPU bound tasks           | 🟩 TCP/SSL        | 🟩 Testing       | 🟦 Resource leaks    |
 | 🟩 commonjs          | 🟦 Memory bound tasks        | 🟩 UDP            | 🟩 CI/CD         | 🟦 Blocking code     |
 | 🟩 ECMA modules      | 🟦 Multilayer approach       | 🟩 TLS            | 🟦 Readable      | 🟦 Data race         |
@@ -97,7 +97,7 @@
 | 🟩 node_modules      | 🟩 GoF for JS and Node.js    | 🟦 RPC            | 🟦 Inspector     |                      |
 | 🟩 package.json      | ⬜ Distributed systems       | 🟩 Routing        | 🟩 Reliability   |                      |
 | 🟦 vm isolation      | ⬜ Highload applications     | 🟩 IP sticky      | 🟩 Quality       |                      |
-| 🟦 command line args | 🟦 DDD                       | 🟦 DoS            | 🟩 Availability  |                      |
+| 🟩 command line args | 🟦 DDD                       | 🟦 DoS            | 🟩 Availability  |                      |
 | 🟩 Node.js CLI       | 🟩 Clean architecture        | 🟦 DDoS           | 🟩 Flexibility   |                      |
 | 🟦 Streams           | 🟦 Domain in the middle      | 🟦 XSS            |                  |                      |
 | 🟦 Clustering        | 🟩 Message Queue             | 🟦 Path traversal |                  |                      |
