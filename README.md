@@ -5,7 +5,7 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript, Java, C++, Python, C</code>
+<code>🧑‍💻 Languages: TypeScript, JavaScript, Java, C++, Python, C</code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@hoshion](https://telegram.me/hoshion)</code>
