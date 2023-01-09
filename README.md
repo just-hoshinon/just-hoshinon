@@ -8,5 +8,5 @@
 <code>🧑‍💻 Languages: JavaScript, Java, C++, Python, C</code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@hoshinon](https://telegram.me/hoshinon)</code>
+<code>💬 telegram: [@hoshion](https://telegram.me/hoshion)</code>
 <code>📫 [mwadman2018@gmail.com](mailto:mwadman2018@gmail.com)</code>
